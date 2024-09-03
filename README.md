@@ -1,4 +1,4 @@
-python-data-workshop
+Python data workshop.
 ====================
 
-Hack@UChicago Workshop: Python for Data Analytics 
+Workshop Python for data analytics.
